@@ -1,7 +1,7 @@
 ---
-title: 'Breakthrough Advancements in Parkinson's Disease Research'
-description: 'Breakthrough Advancements in Parkinson's Disease Research'
-pubDate: 'Jul 23 2024'
+title: 'First post'
+description: 'Lorem ipsum dolor sit amet'
+pubDate: 'Jul 08 2022'
 heroImage: '/pexels-steve-1269968.jpg'
 ---
 
